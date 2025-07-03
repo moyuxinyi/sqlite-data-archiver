@@ -9,7 +9,7 @@ import com.xinyi.dbarchiver.db.entity.ArchiveRecordBookEntity
 /**
  * 传感器历史数据表归档记录册的Dao层接口
  *
- * @author 杨耿雷
+ * @author 新一
  * @since 2025/7/1 15:29
  */
 @Dao

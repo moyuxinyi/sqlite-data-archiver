@@ -7,7 +7,7 @@ import androidx.room.PrimaryKey
 /**
  * 传感器历史数据表归档记录册的数据结构实体类
  *
- * @author 杨耿雷
+ * @author 新一
  * @since 2025/7/1 15:28
  */
 @Entity(

@@ -23,7 +23,7 @@ import java.util.Locale
  * @param totalCount 每种传感器要插入的记录对数
  * @param batchSize 每次批量插入的对数
  *
- * @author 杨耿雷
+ * @author 新一
  * @since 2025/7/1 16:06
  */
 class SensorDataInsertAndArchiveTask(
