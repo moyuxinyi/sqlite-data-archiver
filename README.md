@@ -271,7 +271,7 @@ lifecycleScope.launchWithTiming(tag = TAG, label = "分页查询2号通道 OXY �
 2025-07-01 09:25:24.744 18018-18018 MainActivity            com.xinyi.dbarchiver                 D  分页查询2号通道 OXY 数据 耗时: 10154 毫秒
 ```
 
-### 3.2 插入性能数据统计
+### 3.2 查询性能数据统计
 
 > 通道数据总数查询
 
@@ -685,7 +685,7 @@ lifecycleScope.launchWithTiming(tag = TAG, label = "查询2号通道 OXY") {
 2025-07-03 15:19:32.609 26272-26272 MainActivity            com.xinyi.dbarchiver                 D  查询2号通道 OXY 耗时: 121 毫秒
 ```
 
-### 4.2 插入性能数据统计
+### 4.2 查询性能数据统计
 
 > 通道数据总数查询
 
